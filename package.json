@@ -1,5 +1,5 @@
 {
-  "name": "Zenhhh",
+  "name": "yuki",
   "version": "1.0.0",
   "description": "Whatsapp Bot",
   "main": "index.js",
@@ -55,7 +55,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "Risvan",
+  "author": "Akshay",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Akshay-Eypz/yuki-md/issues"
