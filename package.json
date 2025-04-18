@@ -14,7 +14,7 @@
     "@google/generative-ai": "^0.5.0",
     "@neeraj-x0/ytsearch": "^1.0.0",
     "axios": "^1.7.7",
-    "baileys": "npm:@fizzxydev/baileys-pro@latest",
+    "baileys": "github:Akshay-Eypz/Baileys",
     "bitly": "^4.1.1",
     "browser-id3-writer": "^5.0.0",
     "cheerio": "^1.0.0-rc.12",
